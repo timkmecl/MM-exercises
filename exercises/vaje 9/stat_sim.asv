@@ -1,0 +1,3 @@
+function P  = mojrand(p, q, a, c, m, x0)
+    next_x = @(x) 
+end
